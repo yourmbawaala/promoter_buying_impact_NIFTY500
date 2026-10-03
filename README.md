@@ -52,6 +52,11 @@ A promoter's percentage can rise without the promoter buying a single share. If 
 10% of its shares, all from the public, a promoter holding 50% ends up with 55.6%. Other events (warrants, preferential allotments,
 mergers) also move the percentage. This data records the percentage, not *why* it changed.
 
+Related evidence (US, not India): Cohen, Malloy & Pomorski (2012), *Decoding Inside Information*, Journal of Finance 67(3)
+([NBER WP 16454](https://www.nber.org/papers/w16454)). They find that "routine" insider trades, over half of all insider trades,
+earn abnormal returns that are "essentially zero"; all the predictive power sits in the "opportunistic" trades.
+A raw promoter-percentage signal mixes both kinds, plus mechanical changes, which is one reason it would be noisy.
+
 ## Caveats (read these)
 - **Short history.** NSE's shareholding history is thin before 2021: 173 of the 179 "bought" events are from 2022–2025,
   mostly a strong market for mid and small caps. This is not a full market cycle.
