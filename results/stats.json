@@ -1,0 +1,75 @@
+{
+  "window": "entries Apr 2016 to Jun 2025; 12-month returns end by Jun 2026",
+  "symbols": 678,
+  "threshold_pp": 0.5,
+  "all": {
+    "n": 9487,
+    "mean_excess_pct": 12.3,
+    "median_excess_pct": -0.9,
+    "beat_index_pct": 49.0,
+    "big_winner_pct": 22.7
+  },
+  "bought": {
+    "n": 179,
+    "mean_excess_pct": 17.4,
+    "median_excess_pct": 6.0,
+    "beat_index_pct": 55.3,
+    "big_winner_pct": 29.6
+  },
+  "flat": {
+    "n": 8742,
+    "mean_excess_pct": 11.8,
+    "median_excess_pct": -0.9,
+    "beat_index_pct": 48.9,
+    "big_winner_pct": 22.4
+  },
+  "sold": {
+    "n": 566,
+    "mean_excess_pct": 19.9,
+    "median_excess_pct": -1.5,
+    "beat_index_pct": 48.4,
+    "big_winner_pct": 23.9
+  },
+  "ci95_bought_minus_all": {
+    "beat_index_pp": [
+      -0.5,
+      14.1
+    ],
+    "big_winner_pp": [
+      1.0,
+      13.5
+    ],
+    "mean_excess_pp": [
+      -3.4,
+      15.6
+    ]
+  },
+  "ci95_bought_minus_sold_beat_index_pp": [
+    -1.0,
+    15.6
+  ],
+  "bought_events_by_year": {
+    "2016": 1,
+    "2021": 5,
+    "2022": 67,
+    "2023": 48,
+    "2024": 38,
+    "2025": 20
+  },
+  "robustness": {
+    "stake_up_gt_0.0pp": {
+      "n": 687,
+      "mean_excess_pct": 20.5,
+      "median_excess_pct": 3.2,
+      "beat_index_pct": 53.7,
+      "big_winner_pct": 25.6
+    },
+    "stake_up_gt_2.0pp": {
+      "n": 67,
+      "mean_excess_pct": 13.1,
+      "median_excess_pct": 4.6,
+      "beat_index_pct": 53.7,
+      "big_winner_pct": 26.9
+    }
+  }
+}

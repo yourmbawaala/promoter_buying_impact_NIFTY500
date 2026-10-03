@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/events_rebuilt.csv
+.DS_Store
